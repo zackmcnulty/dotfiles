@@ -18,4 +18,8 @@ export PATH="/Users/zackmcnulty/anaconda3/bin:$PATH"
 
 
 # Permanent Aliases
-alias job="cd ~/Desktop/CSE/Python/Tellurium/job/DREAM-work"
+alias job="cd ~/Desktop/CSE/Python/Tellurium/job/NEW_JOB/DREAM-work/zack_kateka/"
+alias makeCpp="g++ *.cpp -c && g++ *.o -o main"
+alias gc="git commit -m"
+alias ga="git add"
+alias gp="git push"

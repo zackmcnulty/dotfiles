@@ -1,8 +1,3 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =6
-let g:netrw_dirhist_1='/Users/zackmcnulty/Desktop/MATH_381/LPsolve/lp_solve_5.5.2.5_exe_osx32'
-let g:netrw_dirhist_2='/Users/zackmcnulty/Desktop/AMATH_383/amath_383_project/.gitignore'
-let g:netrw_dirhist_3='/Users/zackmcnulty/Desktop/CSE/Python/Tellurium/job/DREAM-work/zack_kateka/Biotapestry'
-let g:netrw_dirhist_4='/Users/zackmcnulty/var/folders/01/jsg86vrx14lc9qqkm4rb12p00000gn'
-let g:netrw_dirhist_5='/Users/zackmcnulty/Desktop/CSE/Python/Tellurium/job/DREAM-work/zack_kateka/Biotapestry'
-let g:netrw_dirhist_6='/Users/zackmcnulty/Desktop/CSE/C++/mess_with_vim/Cpp_Tutorials_from_basic_to_advance'
+let g:netrw_dirhist_cnt =1
+let g:netrw_dirhist_1='/Users/zackmcnulty/Desktop/CSE/C++/mess_with_vim/project_euler/p3'
