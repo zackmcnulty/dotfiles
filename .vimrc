@@ -10,9 +10,8 @@ set number			"turns on line numbers
 
 " keyword mappings
 inoremap jj <Esc>
-inoremap :nx :next
-inoremap :pv :prev
-
+nnoremap :nx :next
+nnoremap :pv :prev
 "colorscheme distinguished
 
 " different color schemes to choose from
