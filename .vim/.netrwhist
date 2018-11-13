@@ -1,5 +1,6 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_cnt =4
 let g:netrw_dirhist_1='/Users/zackmcnulty/Desktop/CSE/C++/mess_with_vim/project_euler/p3'
 let g:netrw_dirhist_2='/Users/zackmcnulty/Desktop/CSE/Python/osrs_stuff'
 let g:netrw_dirhist_3='/Users/zackmcnulty/Desktop/CSE/Python/Tellurium/job/tellurium/docs/_notebooks/core/tellurium_plotting_files'
+let g:netrw_dirhist_4='/Users/zackmcnulty/.password_stuff'
