@@ -1,6 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='/Users/zackmcnulty/Desktop/CSE/C++/mess_with_vim/project_euler/p3'
-let g:netrw_dirhist_2='/Users/zackmcnulty/Desktop/CSE/Python/osrs_stuff'
-let g:netrw_dirhist_3='/Users/zackmcnulty/Desktop/CSE/Python/Tellurium/job/tellurium/docs/_notebooks/core/tellurium_plotting_files'
-let g:netrw_dirhist_4='/Users/zackmcnulty/.password_stuff'
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/zackmcnulty/Desktop/CSE/417/hw/hw4/test_files'
+let g:netrw_dirhist_2='/Users/zackmcnulty/Desktop/CSE/415/project/baroque-chess-ai/.git'
+let g:netrw_dirhist_3='/Users/zackmcnulty/Desktop/Shea-Brown-Lab/RNN_latent_structure/learning_materials/keras/recurrent-neural-networks'
+let g:netrw_dirhist_4='/Users/zackmcnulty/Desktop/Shea-Brown-Lab/RNN_latent_structure/venv'
+let g:netrw_dirhist_5='/Users/zackmcnulty/Desktop/Shea-Brown-Lab/RNN_latent_structure/project/movie_files'

@@ -1,3 +1,10 @@
 [user]
 	email = zmcnulty@uw.edu
 	name = Zachary McNulty
+[http]
+	postBuffer = 524288000
+[filter "lfs"]
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+	process = git-lfs filter-process
+	required = true

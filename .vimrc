@@ -60,7 +60,7 @@ Plugin 'tpope/vim-sensible'
 
 Plugin 'airblade/vim-gitgutter'
 
-Plugin 'jiangmiao/auto-pairs'
+" Plugin 'jiangmiao/auto-pairs'
 
 "adds colored bar at bottom near command line giving some info
 Plugin 'itchyny/lightline.vim'

@@ -1,8 +1,3 @@
-# download all new class pdfs!
-
-#wget -r -np -nd -nc -P ~/Desktop/MATH_461/lectures/ -A "461class*.pdf" https://sites.math.washington.edu/~dumitriu/
-#wget -r -np -nd -nc -P ~/Desktop/CSE/414/lectures/ -A "lec*.pdf" https://courses.cs.washington.edu/courses/cse414/18au/lectures/
-
 
 # user defined functions and aliases
 newpass() {
@@ -26,9 +21,14 @@ makealias() {
 	fi
 }
 
+# connecting to the AMATH servers
+amath() {
+	ssh zmcnulty@$1.amath.washington.edu
+}
+
 alias vergil="ssh zmcnulty@vergil.u.washington.edu"
 alias makeCpp="g++ *.cpp -c && g++ *.o -o main"
 alias gc="git commit -m"
 alias ga="git add"
 alias gp="git push"
-alias nbio="cd ~/Desktop/NBIO_301/NBIO_301-Project"
+alias job="cd ~/Desktop/Shea-Brown-Lab" 
